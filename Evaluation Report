@@ -1,0 +1,5 @@
+The "Duration" Rule: If duration (length of the call) is very low, the customer almost never subscribes. High engagement on the phone is the strongest predictor of success.
+
+The "Success" Rule: If poutcome_success is True (they subscribed to a previous campaign), they have a significantly higher probability of subscribing again.
+
+The "Economic" Rule: If the nr.employed (number of employees index) is high, indicating a specific economic climate, customers are often less likely to commit to new long-term financial products.
